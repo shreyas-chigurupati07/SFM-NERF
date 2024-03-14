@@ -6,7 +6,7 @@ Geometric Computer Vision
 Project 1: Buildings built in minutes - SfM and NeRF Phase 1 
 
 Author(s):
-Uthiralakshmi Sivaraman (usivaraman@wpi.edu)
+Shreyas Chigurupati (schigurupati@wpi.edu)
 Worcester Polytechnic Institute
 """
 
