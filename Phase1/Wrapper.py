@@ -7,7 +7,7 @@ Project 1: Buildings built in minutes - SfM and NeRF Phase 1
 
 
 Author(s):
-Uthiralakshmi Sivaraman (usivaraman@wpi.edu)
+Shreyas Chigurupati (schigurupati@wpi.edu)
 Worcester Polytechnic Institute
 """
 
@@ -123,7 +123,7 @@ def main():
 
 
     # Read Images
-    Folder_name ='/home/uthira/usivaraman_p3/Phase1/Data'
+    Folder_name ='/home/shreyas/shreyas_p3/Phase1/Data'
     images = readImages(Folder_name)
     original_images = images
     # Getting matches from matches.txt 
